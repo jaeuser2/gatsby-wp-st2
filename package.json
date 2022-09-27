@@ -20,7 +20,8 @@
 		"clean": "gatsby clean",
 		"test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
 		"prettier": "prettier \"**/*.{js,jsx,md}\" --check --ignore-path .prettierignore",
-		"prettier:fix": "prettier \"**/*.{js,jsx,,md}\" --write --ignore-path .prettierignore"
+		"prettier:fix": "prettier \"**/*.{js,jsx,,md}\" --write --ignore-path .prettierignore",
+		"install": "install it"
 	},
 	"dependencies": {
 		"autoprefixer": "^10.4.4",
