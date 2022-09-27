@@ -23,6 +23,9 @@
 		"prettier:fix": "prettier \"**/*.{js,jsx,,md}\" --write --ignore-path .prettierignore",
 		"install": "install it"
 	},
+	"engines": {
+		"node": "16"
+	},
 	"dependencies": {
 		"autoprefixer": "^10.4.4",
 		"gatsby": "4.22.0",
