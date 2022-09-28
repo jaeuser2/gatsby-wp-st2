@@ -22,9 +22,6 @@
 		"prettier": "prettier \"**/*.{js,jsx,md}\" --check --ignore-path .prettierignore",
 		"prettier:fix": "prettier \"**/*.{js,jsx,,md}\" --write --ignore-path .prettierignore"
 	},
-	"engines": {
-		"node": "^18"
-	},
 	"dependencies": {
 		"autoprefixer": "^10.4.4",
 		"gatsby": "4.22.0",
