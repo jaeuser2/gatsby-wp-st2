@@ -23,7 +23,7 @@
 		"prettier:fix": "prettier \"**/*.{js,jsx,,md}\" --write --ignore-path .prettierignore"
 	},
 	"engines": {
-		"node": "^16"
+		"node": "^18"
 	},
 	"dependencies": {
 		"autoprefixer": "^10.4.4",
