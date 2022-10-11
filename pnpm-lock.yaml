@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@babel/core': '>=7.12.3 <8.0.0'
+  '@babel/core': '>=7.12.3 <8.0.1'
   '@pantheon-systems/wordpress-kit': ^2.5.0
   '@tailwindcss/typography': ^0.5.2
   autoprefixer: ^10.4.4
